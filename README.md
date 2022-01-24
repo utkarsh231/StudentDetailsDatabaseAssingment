@@ -1,4 +1,4 @@
-# StudentDetailsDatabaseAssingment
+#  StudentDetailsDatabaseAssingment
 
 # Project by-
 Sikkim Manipal Institute of Technology - Scripting Lab Week 11 Assignment
